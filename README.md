@@ -6,8 +6,8 @@ Forecasting NO₂ pollution levels in Jaipur using Multiple Linear Regression wi
 This project presents a comprehensive study on air quality forecasting in Jaipur, India, focusing on NO₂ (Nitrogen Dioxide) prediction using Multiple Linear Regression (MLR) and Seasonal AutoRegressive Integrated Moving Average (SARIMA) models. The research addresses the critical need for accurate air quality prediction in emerging urban centers, where air pollution poses significant health risks.
 
 **Supervisors:**
-- Dr. Ruchi Sharma - Department of Civil Engineering
-- Prof. Sudhir Kumar - Department of Civil Engineering
+- Dr. Ruchi Sharma - Department of Civil Engineering, MNIT Jaipur
+- Prof. Sudhir Kumar - Department of Civil Engineering, MNIT Jaipur
 
 ## 🎯 Why This Project?
 
