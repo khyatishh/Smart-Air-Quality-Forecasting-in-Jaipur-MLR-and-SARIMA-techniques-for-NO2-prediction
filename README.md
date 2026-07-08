@@ -174,4 +174,5 @@ This major project addresses a critical environmental and public health challeng
 **⭐ If you find this project helpful, please consider giving it a star!**
 
 Resources for self learning- 
-Read more about linear regression and Multiple Linear regression - https://www.geeksforgeeks.org/machine-learning/linear-regression-python-implementation/
+Read more about linear regression and Multiple Linear regression: https://www.geeksforgeeks.org/machine-learning/linear-regression-python-implementation/
+Lasso vs Ridge vs Elastic net regression: https://www.geeksforgeeks.org/machine-learning/lasso-vs-ridge-vs-elastic-net-ml/
